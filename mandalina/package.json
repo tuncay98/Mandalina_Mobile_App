@@ -35,7 +35,7 @@
         "or": "^0.2.0",
         "owl.carousel": "^2.3.4",
         "placeholder-loading": "^0.2.6",
-        "socket.io": "^2.3.0",
+        "socket.io": "^2.4.0",
         "v-lazy-image": "^1.4.0",
         "vue-owl-carousel2": "^2.0.7",
         "vue-router": "^3.4.3",
